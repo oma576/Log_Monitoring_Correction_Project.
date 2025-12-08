@@ -4,6 +4,8 @@
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/cc3d963a2c9030f24bc0f4b0c8251e2c2843e69d/Screen%20Shot%202025-12-08%20at%2012.50.37%20PM.png)
 
+![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/6b01e326bb425c1891010d99a6d9bd52c7f48ccf/Screen%20Shot%202025-12-08%20at%2012.56.44%20PM.png)
+
 ## Failure Point
 
 `sudo systemctl restart rsyslog`
