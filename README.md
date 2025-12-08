@@ -20,10 +20,16 @@
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/d6df77abcfac35650b4de97c9d8e2ef798e0a369/Screen%20Shot%202025-12-08%20at%201.23.32%20PM.png)
 
+## Part 2: Configure Tripwire
+```
+sudo systemctl restart rsyslog
+systemctl status rsyslog
+```
+
 ## Failure Point
-
-`sudo systemctl restart rsyslog`
-
+```
+sudo systemctl restart rsyslog
+```
 ## Root cause analysis
 
 The integrity check failed because the Tripwire database had never been initialized. The rsyslog configuration failed because the service was not restarted, rendering the configuration inert.
