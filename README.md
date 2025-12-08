@@ -34,6 +34,12 @@ sudo tripwire --init
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/44e7d8dba4070c10416fc65e6adc9b668a293637/Screen%20Shot%202025-12-08%20at%204.21.04%20PM.png)
 
+```
+sudo tripwire --check
+```
+
+![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/5852596f26064aa4ca58714a6281149e874a9313/Screen%20Shot%202025-12-08%20at%204.22.18%20PM.png)
+
 ## Failure Point
 ```
 sudo systemctl restart rsyslog
