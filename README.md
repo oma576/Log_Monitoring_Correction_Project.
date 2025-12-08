@@ -26,6 +26,12 @@ sudo systemctl restart rsyslog
 systemctl status rsyslog
 ```
 
+![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/bfe6817ae908b57596c5f855b7a2c160fc4753c9/Screen%20Shot%202025-12-08%20at%204.20.51%20PM.png)
+
+```
+sudo tripwire --init
+```
+
 ## Failure Point
 ```
 sudo systemctl restart rsyslog
