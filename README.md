@@ -1,6 +1,6 @@
 # Log_Monitoring_Correction_Project.
 
-![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/a7318c7a21c8f8536c5aa4e3465f3a7ab69d3535/Screen%20Shot%202025-12-08%20at%2012.30.46%20PM.png)
+![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/80b3059f9b51f6b0e9b6db1244c68f7c3e3c6c23/Screen%20Shot%202025-12-08%20at%2012.53.09%20PM.png)
 
 ## Failure Point
 
