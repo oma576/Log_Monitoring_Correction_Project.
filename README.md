@@ -1,7 +1,7 @@
 # Log_Monitoring_Correction_Project.
 > Please visit ["JBLearning"](https://www.jblearning.com/?srsltid=AfmBOoortdIFhkJGGuR-srQ5aE2Wb1J0XNFdhxPZYAmpLjHBD4If2U2X) for further information.
 
-> The "JBLearning" helps improve your understanding of Linux.
+> The "JBLearning" helps improve your understanding of Linux and securtiy practices.
 
 ## Description
 This lab focuses on practical Linux security by integrating logging, monitoring, and integrity checking tools like Tripwire, Rootkit Hunter (rkhunter), and establishing remote syslog. It will teach you to safeguard system logs, detect changes, and discover hidden malware for powerful defense. I will also go over and correct errors I made.
@@ -66,9 +66,7 @@ sudo tripwire --check
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/5852596f26064aa4ca58714a6281149e874a9313/Screen%20Shot%202025-12-08%20at%204.22.18%20PM.png)
 
 ## Failure Point
-```
-sudo systemctl restart rsyslog
-```
+
 ## Root cause analysis
 
 The integrity check failed because the Tripwire database had never been initialized. The rsyslog configuration failed because the service was not restarted, rendering the configuration inert.
