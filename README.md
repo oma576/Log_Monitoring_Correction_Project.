@@ -1,5 +1,9 @@
 # Log_Monitoring_Correction_Project.
+> Please visit ["JBLearning"](https://www.jblearning.com/?srsltid=AfmBOoortdIFhkJGGuR-srQ5aE2Wb1J0XNFdhxPZYAmpLjHBD4If2U2X) for further information.
 
+> The "JBLearning" helps improve your understanding of Linux.
+
+## Description
 This lab focuses on practical Linux security by integrating logging, monitoring, and integrity checking tools like Tripwire, Rootkit Hunter (rkhunter), and establishing remote syslog. It will teach you to safeguard system logs, detect changes, and discover hidden malware for powerful defense. I will also go over and correct errors I made.
 
 ### Part 1: Configure and Investigate the Linux Log File
