@@ -1,5 +1,7 @@
 # Log_Monitoring_Correction_Project.
 
+This lab focuses on practical Linux security by integrating logging, monitoring, and integrity checking tools like Tripwire, Rootkit Hunter (rkhunter), and establishing remote syslog. It will teach you to safeguard system logs, detect changes, and discover hidden malware for powerful defense. I will also go over and correct errors I made.
+
 ### Part 1: Configure and Investigate the Linux Log File
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/e35838d4d432eabef25ba2b2926a68bba3f56061/Screen%20Shot%202025-12-08%20at%2012.56.44%20PM.png)
@@ -15,6 +17,7 @@
 ### Part 3: Configure Rootkit Hunter
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/7714510b8aec5fa5eee150501afd35bd45ee4930/Screen%20Shot%202025-12-08%20at%201.22.20%20PM.png)
+
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/65cbd8727b48224f2999ba97f9a3cd3da0df7b44/Screen%20Shot%202025-12-08%20at%201.23.22%20PM.png)
 
