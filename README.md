@@ -7,7 +7,7 @@
 This lab focuses on practical Linux security by integrating logging, monitoring, and integrity checking tools like Tripwire, Rootkit Hunter (rkhunter), and establishing remote syslog. It will teach you to safeguard system logs, detect changes, and discover hidden malware for powerful defense. I will also go over and correct errors I made.
 
 ## Failure Point
-* I failed to run integrity check and configure rsyslog
+* I failed to run integrity check and configure rsyslog.
   
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/8cad1eb6b0f71e5f4cb012644e2eceeb330e0b64/Screen%20Shot%202025-12-08%20at%2011.49.45%20PM.png)
 
