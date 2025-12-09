@@ -14,6 +14,8 @@ This lab focuses on practical Linux security by integrating logging, monitoring,
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/ddfd8ea014219bb64dc4cb2151af05ec50d771df/Screen%20Shot%202025-12-08%20at%201.06.57%20PM.png)
 
+![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/45b9060bec9059f31a2cd44425a82de8341f6827/Screen%20Shot%202025-12-08%20at%2010.13.51%20PM.png)
+
 ### Part 3: Configure Rootkit Hunter
 
 ![image atl](https://github.com/oma576/Log_Monitoring_Correction_Project./blob/7714510b8aec5fa5eee150501afd35bd45ee4930/Screen%20Shot%202025-12-08%20at%201.22.20%20PM.png)
